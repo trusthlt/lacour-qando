@@ -10,7 +10,7 @@ You can load the dataset e.g. with pandas:
 
 ```python
 import pandas as pd
-df = pd.read_json('dataset_questions_opinions.json')
+df = pd.read_json('dataset_questions_opinions.json', dtype={'webcast_id': str})
 ```
 
 The dataset contains the following fields:
