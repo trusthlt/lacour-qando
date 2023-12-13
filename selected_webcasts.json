@@ -1,0 +1,1539 @@
+{
+    "main title": {
+        "7": "L.B. v. Hungary (no. 36345\/16)",
+        "8": "H.F. and M.F. v. France and J.D. and A.D. v. France (nos. 24384\/19 and 44234\/20)",
+        "9": "Vegotex International S.A. v. Belgium (no. 49812\/09)",
+        "10": "B. v. Switzerland (no. 78630\/12)",
+        "11": "Savickis and Others v. Latvia (no. 49270\/11)",
+        "12": "Grz\u0119da v. Poland (no. 43572\/18)",
+        "13": "Abdi Ibrahim v. Norway (no. 15379\/16)",
+        "14": "Khasanov and Rakhmanov v. Russia (nos. 28492\/15 and 49975\/15)",
+        "15": "Denis and Irvine v. Belgium (nos. 62819\/17 and 63921\/17)",
+        "16": "NIT S.R.L. v. the Republic of Moldova (no. 28470\/12)",
+        "17": "Vav\u0159i\u010dka v. the Czech Republic (no. 47621\/13) and 5 other applications (nos. 3867\/14, 73094\/14, 19306\/15, 19298\/15 and 43883\/15)",
+        "18": "Savran v. Denmark (no. 57467\/15)",
+        "19": "Kurt v. Austria (no. 62903\/15)",
+        "20": "M.A. v. Denmark (no. 6697\/18)",
+        "21": "Hanan v. Germany (no. 4871\/16)",
+        "22": "Gu\u00f0mundur Andri \u00c1str\u00e1\u00f0sson v. Iceland (no. 26374\/18)",
+        "23": "X and Others v. Bulgaria (no. 22457\/16)",
+        "24": "Albert and Others v. Hungary (no. 5294\/14)",
+        "25": "Mugemangango v. Belgium (no. 310\/15)",
+        "26": "Gestur J\u00f3nsson and Ragnar Halld\u00f3r Hall v. Iceland (nos. 68273\/14 and 68271\/14)",
+        "27": "Muhammad and Muhammad v. Romania (no. 80982\/12)",
+        "28": "Selahattin Demirta\u015f v. Turkey (no. 2) (no. 14305\/17)",
+        "30": "Big Brother Watch and Others v. the United Kingdom (nos. 58170\/13, 62322\/14 and 24960\/15)",
+        "31": "Centrum f\u00f6r r\u00e4ttvisa v. Sweden (no. 35252\/08)",
+        "33": "S.M. v. Croatia (no. 60561\/14)",
+        "35": "A.M. v. France (no. 12148\/18)",
+        "36": "L\u00f3pez Ribalda and Others v. Spain (no. 1874\/13)",
+        "37": "Magyar K\u00e9tfark\u00fa Kutya P\u00e1rt v. Hungary (no. 201\/17)",
+        "39": "Strand Lobben and Others v. Norway (no. 37283\/13)",
+        "40": "Mihalache v. Romania (no. 54012\/10) ",
+        "41": "N.D. and N.T. v. Spain (no. 8675\/15)",
+        "42": "Rooman v. Belgium (no. 18052\/11)",
+        "43": "Georgia v. Russia (II)  (no. 38263\/08)",
+        "44": "Ilias and Ahmed v. Hungary (no. 47287\/15)",
+        "45": "Z.A. and Others v. Russia (nos. 61411\/15, 61420\/15, 61427\/15 and 3028\/16)",
+        "46": "G\u00fczelyurtlu and Others v. Cyprus and Turkey (no. 36925\/07)",
+        "47": "Leki\u0107 v. Slovenia (no. 36480\/07)",
+        "48": "Fernandes de Oliveira v. Portugal (no. 78103\/14)",
+        "49": "Murtazaliyeva v. Russia (no. 36658\/05)",
+        "50": "Navalnyy v. Russia (nos. 29580\/12, 36847\/12, 11252\/13, 12317\/13 and 43746\/14)",
+        "51": "S., V. and A. v. Denmark (no. 35553\/12)",
+        "52": "Beuze v. Belgium (no. 71409\/10)",
+        "53": "Molla Sali v. Greece (no. 20452\/14)",
+        "54": "Ilnseher v. Germany (nos. 10211\/12 and 27505\/14)",
+        "56": "Nicolae Virgiliu T\u0103nase v. Romania (no. 41720\/13)",
+        "57": "Big Brother Watch and Others v. the United Kingdom (no. 58170\/13), Bureau of Investigative Journalism and Alice Ross v. the United Kingdom (no. 62322\/14) and 10 Human Rights Organisations and Others v. the United Kingdom (no. 24960\/15)",
+        "58": "Denisov v. Ukraine (no. 76639\/11)",
+        "59": "Zubac v. Croatia (no. 40160\/12)",
+        "60": "Na\u00eft-Liman v. Switzerland (no. 51357\/07)",
+        "61": "Sharxhi and Others v. Albania (no. 10613\/16)",
+        "62": "Ramos Nunes De Carvalho e S\u00e1 v. Portugal (no. 55391\/13)",
+        "63": "Merabishvili v. Georgia (no. 72508\/13)",
+        "64": "Correia de Matos v. Portugal (no. 56402\/12)",
+        "65": "Garib v. the Netherlands (no. 43494\/09)",
+        "67": "B\u0103rbulescu v. Romania (no. 61496\/08)",
+        "68": "Lopes de Sousa Fernandes v. Portugal (no. 56080\/13)",
+        "69": "F\u00e1bi\u00e1n v. Hungary (no. 78117\/13)",
+        "70": "Regner v. the Czech Republic (no. 35289\/11)",
+        "71": "K\u00e1roly Nagy v. Hungary (no. 56665\/09)",
+        "72": "Satakunnan Markkinap\u00f6rssi Oy and Satamedia Oy v. Finland (no. 931\/13)",
+        "73": "Med\u017elis Islamske zajednice Br\u010dko and Others v. Bosnia and Herzegovina (no. 17224\/11)",
+        "74": "Simeonovi v. Bulgaria (no. 21980\/04)",
+        "75": "Al Nashiri v. Romania (no. 33234\/12)",
+        "76": "Abu Zubaydah v. Lithuania (no. 46454\/11)",
+        "77": "Khlaifia and Others v. Italy (no. 16483\/12)",
+        "78": "Moreira Ferreira v. Portugal (No. 2) (no. 19867\/12) ",
+        "79": "V.M. and Others v. Belgium (no. 60125\/11)",
+        "80": "Khamtokhu and Aksenchik v. Russia (nos. 60367\/08 and 961\/11)",
+        "81": "Lupeni Greek Catholic Parish and Others v. Romania (no. 76943\/11)",
+        "82": "J.K. and Others v. Sweden (no. 59166\/12)",
+        "83": "Lhermitte v. Belgium (no. 34238\/09)",
+        "84": "A and B v. Norway (nos. 24130\/11 and 29758\/11)",
+        "85": "Mur\u0161i\u0107 v. Croatia (no. 7334\/13)",
+        "86": "B\u00e9l\u00e1n\u00e9 Nagy v. Hungary (no. 53080\/13)",
+        "87": "Paradiso and Campanelli v. Italy (no. 25358\/12)",
+        "88": "Dubsk\u00e1 and Krejzov\u00e1 v. the Czech Republic (nos. 28859\/11 and 28473\/12)",
+        "89": "Ibrahim and Others v. the United Kingdom (nos. 50541\/08, 50571\/08, 50573\/08 and 40351\/09)",
+        "90": "Magyar Helsinki Bizotts\u00e1g v. Hungary (no. 18030\/11) ",
+        "91": "Hutchinson v. the United Kingdom (no. 57592\/08)",
+        "92": "Buzadji v. Republic of Moldova (no. 23755\/07)",
+        "93": "Paposhvili v. Belgium (no. 41738\/10)",
+        "94": "G.I.E.M s.r.l v. Italy (no. 1828\/06) , Hotel Promotion Bureau s.r.l. and Rita Sarda s.r.l. v. Italy (no. 34163\/07) and Falgest s.r.l. and Gironda v. Italy (no. 19029\/11)",
+        "95": "Kar\u00e1csony and Others v. Hungary (no. 42461\/13) and Sz\u00e9l and Others v. Hungary (no. 44357\/13)",
+        "96": "Jeronovi\u010ds v. Latvia (no. 44898\/10)",
+        "97": "Nasr and Ghali v. Italy (no. 44883\/09)",
+        "98": "Baka v. Hungary (no. 20261\/12)",
+        "99": "Armani Da Silva v. the United Kingdom (no. 5878\/08)",
+        "100": "Izzettin Dogan and Others v. Turkey (no. 62649\/10) ",
+        "101": "de Tommaso v. Italy (no. 43395\/09) ",
+        "102": "Gouarre Patte v. Andorra (no. 33427\/10)",
+        "103": "B\u00e9dat v. Switzerland (no. 56925\/08)",
+        "104": "Couderc and Hachette Filipacchi Associ\u00e9s v. France (no. 40454\/07)",
+        "105": "Avoti\u0146\u0161 v. Latvia (no. 17502\/07)",
+        "106": "Biao v. Denmark (no. 38590\/10)",
+        "107": "Schatschaschwili v. Germany (no. 9154\/10)",
+        "108": "Mozer v. the Republic of Moldova and Russia (no. 11138\/10) ",
+        "109": "Perin\u00e7ek v. Switzerland (no. 27510\/08)",
+        "110": "Dvorski v. Croatia (no. 25703\/11)",
+        "111": "Murray v. the Netherlands (no. 10511\/10)",
+        "112": "Lambert and Others v. France (no. 46043\/14)",
+        "113": "Pentik\u00e4inen v. Finland (no. 11882\/10)",
+        "114": "Al-Dulimi and Montana Management Inc. v. Switzerland (no. 5809\/08)",
+        "115": "F.G. v. Sweden (no. 43611\/11) ",
+        "117": "Tagayeva and Others v. Russia (no. 26562\/07)",
+        "118": "Bouyid v. Belgium (no. 23380\/09)",
+        "119": "Roman Zakharov v. Russia (no. 47143\/06)",
+        "120": "Khoroshenko v. Russia (no. 41418\/04)",
+        "121": "Delfi AS v. Estonia (no. 64569\/09)",
+        "122": "Parillo v. Italy (no. 46470\/11)",
+        "123": "Vasiliauskas v. Lithuania (no. 35343\/05) ",
+        "124": "Morice v. France (no. 29369\/10) ",
+        "125": "Mustafa Tun\u00e7 and Fecire Tun\u00e7 v. Turkey (no. 24014\/05)",
+        "126": "Jaloud v. the Netherlands (no. 47708\/08) ",
+        "127": "Tarakhel v. Switzerland (no. 29217\/12)",
+        "128": "Sargsyan v. Azerbaijan (no. 40167\/06) ",
+        "129": "Chiragov and Others v. Armenia (no. 13216\/05) ",
+        "130": "Hassan v. the United Kingdom (no. 29750\/09) ",
+        "131": "Al Nashiri v. Poland (no. 28761\/11) and Husayn (Abu Zubaydah) v. Poland (no. 7511\/13)",
+        "132": "S.A.S. v. France (no. 43835\/11)",
+        "133": "Jeunesse v. the Netherlands (no.12738\/10) ",
+        "134": "Hamalainen v. Finland (no. 37359\/09)",
+        "135": "Natsvlishvili and Togonidze v. Georgia (no. 9043\/05)",
+        "136": "Mocanu and Others v. Romania (nos 10865\/09, 45886\/07 and 32431\/08) ",
+        "137": "Svinarenko and Slyadnev v. Russia (nos. 32541\/08 and 43441\/08)",
+        "138": "Dubsk\u00e1 and Krejzov\u00e1 v. the Czech Republic (nos. 28859\/11 and 28473\/12 )",
+        "139": "Center for Legal Resources on behalf of Valentin C\u00e2mpeanu v. Romania (no. 47848\/08)",
+        "140": "Ali\u0161i\u0107 and Others v. Bosnia and Herzegovina, Croatia, Serbia, Slovenia and \u201cthe Former Yugoslav Republic of Macedonia\u201d (no. 60642\/08)",
+        "141": "Margu\u0161 v. Croatia (no. 4455\/10)",
+        "142": "Vu\u010dkovi\u0107 and Others v. Serbia (no. 17153\/11)",
+        "143": "S\u00f6derman v. Sweden (no. 5786\/08 )",
+        "144": "Del Rio Prada v. Spain (no. 42750\/09 )",
+        "145": "O\u2019Keeffe v. Ireland (no. 35810\/09)",
+        "146": "Janowiec and Others v. Russia (nos. 55508\/07 and 29520\/09)",
+        "147": "Fernandez Martinez v. Spain (no. 56030\/07)",
+        "148": "Vallianatos and Others v. Greece (nos. 29381\/09, 32684\/09)",
+        "149": "Maktouf and Damjanovic v. Bosnia and Herzegovina (nos. 2312\/08 and 34179\/08)",
+        "150": "Vinter and Others v. United Kingdom (no. 66069\/09, 130\/10 et 3896\/10)",
+        "151": "Allen v. United Kingdom (no. 25424\/09)",
+        "153": "X. v. Latvia (no. 27853\/09)",
+        "154": "X. and Others v. Austria (no. 19010\/07)",
+        "155": "Michaud v. France (nos. 12323\/11)",
+        "156": "Vilnes and Others v. Norway (nos. 52806\/09 & 22703\/10)",
+        "157": "Ladele v. United Kingdom (no. 51671\/10), McFarlane v. United Kingdom (no. 36516\/10), Eweida v. United Kingdom (no. 48420\/10) & Chaplin v. United Kingdom (no. 59842\/10)",
+        "158": "Tymoshenko v. Ukraine (no. 49872\/11)",
+        "159": "Telegraaf Media Nederland Landelijke Media B.V. and Others v. the Netherlands (no. 39315\/06)",
+        "160": "Georgia v. Russia (I) (no. 13255\/07) Just satisfaction",
+        "161": "Oleksandr Volkov v. Ukraine (no. 21722\/11)",
+        "162": "El-Masri v. \"the former Yugoslav Republic of Macedonia\" (no. 39630\/09)",
+        "163": "Lutsenko v. Ukraine (no. 6492\/11)",
+        "164": "Fabris v. France (no. 16574\/08) Article 41 - Just satisfaction",
+        "165": "De Souza Ribeiro v. France  (no. 22689\/07)",
+        "166": "Animal Defenders International c. United Kingdom (no. 48876\/08)",
+        "167": "Catan and Others v. Republic of Moldova and Russia (no. 43370\/04, 43370\/04, 8252\/05 and 18454\/06)",
+        "168": "Visti\u014b\u0161 and Perepjolkins v. Latvia (no. 71243\/01) Article 41 - Just satisfaction"
+    },
+    "date": {
+        "7": 1635897600000,
+        "8": 1632873600000,
+        "9": 1625616000000,
+        "10": 1623801600000,
+        "11": 1621987200000,
+        "12": 1621382400000,
+        "13": 1611705600000,
+        "14": 1611100800000,
+        "15": 1603238400000,
+        "16": 1602633600000,
+        "17": 1593561600000,
+        "18": 1592956800000,
+        "19": 1592352000000,
+        "20": 1591747200000,
+        "21": 1582675200000,
+        "22": 1580860800000,
+        "23": 1579046400000,
+        "24": 1576627200000,
+        "25": 1575417600000,
+        "26": 1570579200000,
+        "27": 1569369600000,
+        "28": 1568764800000,
+        "30": 1562716800000,
+        "31": 1562716800000,
+        "33": 1557878400000,
+        "35": 1548115200000,
+        "36": 1543363200000,
+        "37": 1542758400000,
+        "39": 1539734400000,
+        "40": 1538524800000,
+        "41": 1537920000000,
+        "42": 1528243200000,
+        "43": 1527033600000,
+        "44": 1524009600000,
+        "45": 1524009600000,
+        "46": 1522195200000,
+        "47": 1520985600000,
+        "48": 1520380800000,
+        "49": 1518566400000,
+        "50": 1516752000000,
+        "51": 1516147200000,
+        "52": 1513728000000,
+        "53": 1512518400000,
+        "54": 1511913600000,
+        "56": 1510704000000,
+        "57": 1510012800000,
+        "58": 1508284800000,
+        "59": 1499817600000,
+        "60": 1497398400000,
+        "61": 1495497600000,
+        "62": 1490140800000,
+        "63": 1488931200000,
+        "64": 1486512000000,
+        "65": 1485302400000,
+        "67": 1480464000000,
+        "68": 1479254400000,
+        "69": 1478649600000,
+        "70": 1476835200000,
+        "71": 1476230400000,
+        "72": 1473811200000,
+        "73": 1472601600000,
+        "74": 1467763200000,
+        "75": 1467158400000,
+        "76": 1467158400000,
+        "77": 1466553600000,
+        "78": 1464739200000,
+        "79": 1464134400000,
+        "80": 1461110400000,
+        "81": 1456876800000,
+        "82": 1456272000000,
+        "83": 1453852800000,
+        "84": 1452643200000,
+        "85": 1452038400000,
+        "86": 1450224000000,
+        "87": 1449619200000,
+        "88": 1449014400000,
+        "89": 1448409600000,
+        "90": 1446595200000,
+        "91": 1445385600000,
+        "92": 1444176000000,
+        "93": 1442361600000,
+        "94": 1441152000000,
+        "95": 1436313600000,
+        "96": 1435708800000,
+        "97": 1435017600000,
+        "98": 1434499200000,
+        "99": 1433894400000,
+        "100": 1433289600000,
+        "101": 1432080000000,
+        "102": 1431993600000,
+        "103": 1431475200000,
+        "104": 1429056000000,
+        "105": 1428451200000,
+        "106": 1427846400000,
+        "107": 1425427200000,
+        "108": 1423008000000,
+        "109": 1422403200000,
+        "110": 1421798400000,
+        "111": 1421193600000,
+        "112": 1420588800000,
+        "113": 1418774400000,
+        "114": 1418169600000,
+        "115": 1417564800000,
+        "117": 1413244800000,
+        "118": 1412726400000,
+        "119": 1411516800000,
+        "120": 1409702400000,
+        "121": 1404864000000,
+        "122": 1403049600000,
+        "123": 1401840000000,
+        "124": 1400630400000,
+        "125": 1397606400000,
+        "126": 1392768000000,
+        "127": 1392163200000,
+        "128": 1391558400000,
+        "129": 1390348800000,
+        "130": 1386720000000,
+        "131": 1386028800000,
+        "132": 1385510400000,
+        "133": 1384300800000,
+        "134": 1381881600000,
+        "135": 1381795200000,
+        "136": 1380672000000,
+        "137": 1379462400000,
+        "138": 1378771200000,
+        "139": 1378252800000,
+        "140": 1373414400000,
+        "141": 1372204800000,
+        "142": 1368576000000,
+        "143": 1364947200000,
+        "144": 1363737600000,
+        "145": 1362528000000,
+        "146": 1360713600000,
+        "147": 1359504000000,
+        "148": 1358294400000,
+        "149": 1355270400000,
+        "150": 1354060800000,
+        "151": 1352851200000,
+        "153": 1349827200000,
+        "154": 1349222400000,
+        "155": 1349136000000,
+        "156": 1347926400000,
+        "157": 1346716800000,
+        "158": 1346112000000,
+        "159": 1340064000000,
+        "160": 1339545600000,
+        "161": 1339459200000,
+        "162": 1337126400000,
+        "163": 1334620800000,
+        "164": 1333497600000,
+        "165": 1332288000000,
+        "166": 1331078400000,
+        "167": 1327449600000,
+        "168": 1326240000000
+    },
+    "video link": {
+        "7": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3634516_03112021&language=en&c=&py=2021",
+        "8": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2438419_29092021&language=en&c=&py=2021",
+        "9": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4981209_07072021&language=en&c=&py=2021",
+        "10": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7863012_16062021&language=en&c=&py=2021",
+        "11": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4927011_26052021&language=en&c=&py=2021",
+        "12": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4357218_19052021&language=en&c=&py=2021",
+        "13": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1537916_27012021&language=en&c=&py=2021",
+        "14": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2849215_20012021&language=en&c=&py=2021",
+        "15": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6281917_21102020&language=en&c=&py=2020",
+        "16": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2847012_14102020&language=en&c=&py=2020",
+        "17": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4762113_01072020&language=en&c=&py=2020",
+        "18": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5746715_24062020&language=en&c=&py=2020",
+        "19": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6290315_17062020&language=en&c=&py=2020",
+        "20": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=669718_10062020&language=en&c=&py=2020",
+        "21": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=487116_26022020&language=en&c=&py=2020",
+        "22": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2637418_05022020&language=en&c=&py=2020",
+        "23": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2245716_15012020&language=en&c=&py=2020",
+        "24": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=529414_18122019&language=en&c=&py=2019",
+        "25": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=31015_04122019&language=en&c=&py=2019",
+        "26": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6827314_09102019&language=en&c=&py=2019",
+        "27": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=8098212_25092019&language=en&c=&py=2019",
+        "28": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1430517_18092019&language=en&c=&py=2019",
+        "30": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5817013_10072019&language=en&c=&py=2019",
+        "31": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3525208_10072019&language=en&c=&py=2019",
+        "33": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6056114_15052019&language=en&c=&py=2019",
+        "35": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1214818_22012019&language=en&c=&py=2019",
+        "36": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=187413_28112018&language=en&c=&py=2018",
+        "37": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=20117_21112018&language=en&c=&py=2018",
+        "39": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3728313_17102018&language=en&c=&py=2018",
+        "40": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5401210_03102018&language=en&c=&py=2018",
+        "41": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=867515_26092018&language=en&c=&py=2018",
+        "42": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1805211_06062018&language=en&c=&py=2018",
+        "43": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3826308_23052018&language=en&c=&py=2018",
+        "44": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4728715_18042018&language=en&c=&py=2018",
+        "45": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6141115_18042018&language=en&c=&py=2018",
+        "46": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3692507_28032018&language=en&c=&py=2018",
+        "47": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3648007_14032018&language=en&c=&py=2018",
+        "48": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7810314_07032018&language=en&c=&py=2018",
+        "49": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3665805_14022018&language=en&c=&py=2018",
+        "50": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2958012_24012018&language=en&c=&py=2018",
+        "51": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3555312_17012018&language=en&c=&py=2018",
+        "52": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7140910_20122017&language=en&c=&py=2017",
+        "53": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2045214_06122017&language=en&c=&py=2017",
+        "54": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1021112_29112017&language=en&c=&py=2017",
+        "56": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4172013_15112017&language=en&c=&py=2017",
+        "57": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5817013_07112017&language=en&c=&py=2017",
+        "58": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7663911_18102017&language=en&c=&py=2017",
+        "59": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4016012_12072017&language=en&c=&py=2017",
+        "60": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5135707_14062017&language=en&c=&py=2017",
+        "61": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1061316_23052017&language=en&c=&py=2017",
+        "62": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5539113_22032017&language=en&c=&py=2017",
+        "63": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7250813_08032017&language=en&c=&py=2017",
+        "64": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5640212_08022017&language=en&c=&py=2017",
+        "65": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4349409_25012017&language=en&c=&py=2017",
+        "67": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6149608_30112016&language=en&c=&py=2016",
+        "68": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5608013_16112016&language=en&c=&py=2016",
+        "69": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7811713_09112016&language=en&c=&py=2016",
+        "70": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3528911_19102016&language=en&c=&py=2016",
+        "71": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5666509_12102016&language=en&c=&py=2016",
+        "72": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=93113_14092016&language=en&c=&py=2016",
+        "73": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1722411_31082016&language=en&c=&py=2016",
+        "74": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2198004_06072016&language=en&c=&py=2016",
+        "75": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3323412_29062016&language=en&c=&py=2016",
+        "76": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4645411_29062016&language=en&c=&py=2016",
+        "77": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1648312_22062016&language=en&c=&py=2016",
+        "78": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1986712_01062016&language=en&c=&py=2016",
+        "79": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6012511_25052016&language=en&c=&py=2016",
+        "80": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6036708_20042016&language=en&c=&py=2016",
+        "81": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7694311_02032016&language=en&c=&py=2016",
+        "82": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5916612_24022016&language=en&c=&py=2016",
+        "83": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3423809_27012016&language=en&c=&py=2016",
+        "84": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2413011_13012016&language=en&c=&py=2016",
+        "85": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=733413_06012016&language=en&c=&py=2016",
+        "86": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5308013_16122015&language=en&c=&py=2015",
+        "87": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2535812_09122015&language=en&c=&py=2015",
+        "88": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2885911_02122015&language=en&c=&py=2015",
+        "89": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5054108_25112015&language=en&c=&py=2015",
+        "90": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1803011_04112015&language=en&c=&py=2015",
+        "91": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5759208_21102015&language=en&c=&py=2015",
+        "92": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2375507_07102015&language=en&c=&py=2015",
+        "93": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4173810_16092015&language=en&c=&py=2015",
+        "94": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=182806_02092015&language=en&c=&py=2015",
+        "95": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4246113_08072015&language=en&c=&py=2015",
+        "96": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4489810_01072015&language=en&c=&py=2015",
+        "97": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4488309_23062015&language=en&c=&py=2015",
+        "98": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2026112_17062015&language=en&c=&py=2015",
+        "99": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=587808_10062015&language=en&c=&py=2015",
+        "100": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6264910_03062015&language=en&c=&py=2015",
+        "101": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4339509_20052015&language=en&c=&py=2015",
+        "102": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3342710_19052015&language=en&c=&py=2015",
+        "103": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5692508_13052015&language=en&c=&py=2015",
+        "104": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4045407_15042015&language=en&c=&py=2015",
+        "105": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1750207_08042015&language=en&c=&py=2015",
+        "106": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3859010_01042015&language=en&c=&py=2015",
+        "107": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=915410_04032015&language=en&c=&py=2015",
+        "108": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1113810_04022015&language=en&c=&py=2015",
+        "109": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2751008_28012015&language=en&c=&py=2015",
+        "110": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2570311_21012015&language=en&c=&py=2015",
+        "111": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1051110_14012015&language=en&c=&py=2015",
+        "112": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4604314_07012015&language=en&c=&py=2015",
+        "113": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1188210_17122014&language=en&c=&py=2014",
+        "114": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=580908_10122014&language=en&c=&py=2014",
+        "115": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4361111_03122014&language=en&c=&py=2014",
+        "117": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2656207_14102014&language=en&c=&py=2014",
+        "118": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2338009_08102014&language=en&c=&py=2014",
+        "119": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4714306_24092014&language=en&c=&py=2014",
+        "120": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4141804_03092014&language=en&c=&py=2014",
+        "121": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6456909_09072014&language=en&c=&py=2014",
+        "122": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4647011_18062014&language=en&c=&py=2014",
+        "123": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3534305_04062014&language=en&c=&py=2014",
+        "124": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2936910_21052014&language=en&c=&py=2014",
+        "125": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2401405_16042014&language=en&c=&py=2014",
+        "126": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4770808_19022014&language=en&c=&py=2014",
+        "127": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2921712_12022014&language=en&c=&py=2014",
+        "128": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4016706_05022014&language=en&c=&py=2014",
+        "129": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1321605_22012014&language=en&c=&py=2014",
+        "130": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2975009_11122013&language=en&c=&py=2013",
+        "131": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2876111_03122013&language=en&c=&py=2013",
+        "132": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4383511_27112013&language=en&c=&py=2013",
+        "133": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1273810_13112013&language=en&c=&py=2013",
+        "134": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3735909_16102013&language=en&c=&py=2013",
+        "135": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=904305_15102013&language=en&c=&py=2013",
+        "136": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1086509_02102013&language=en&c=&py=2013",
+        "137": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3254108_18092013&language=en&c=&py=2013",
+        "138": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2885911_10092013&language=en&c=&py=2013",
+        "139": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4784808_04092013&language=en&c=&py=2013",
+        "140": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6064208_10072013&language=en&c=&py=2013",
+        "141": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=445510_26062013&language=en&c=&py=2013",
+        "142": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1715311_15052013&language=en&c=&py=2013",
+        "143": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=578608_03042013&language=en&c=&py=2013",
+        "144": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4275009_20032013&language=en&c=&py=2013",
+        "145": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3581009_06032013&language=en&c=&py=2013",
+        "146": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5550807_13022013&language=en&c=&py=2013",
+        "147": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5603007_30012013&language=en&c=&py=2013",
+        "148": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2938109_16012013&language=en&c=&py=2013",
+        "149": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=231208_12122012&language=en&c=&py=2012",
+        "150": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=6606909_28112012&language=en&c=&py=2012",
+        "151": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2542409_14112012&language=en&c=&py=2012",
+        "153": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2785309_10102012&language=en&c=&py=2012",
+        "154": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1901007_03102012&language=en&c=&py=2012",
+        "155": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1232311_02102012&language=en&c=&py=2012",
+        "156": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5280609_18092012&language=en&c=&py=2012",
+        "157": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=5167110_04092012&language=en&c=&py=2012",
+        "158": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4987211_28082012&language=en&c=&py=2012",
+        "159": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3931506_19062012&language=en&c=&py=2012",
+        "160": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1325507_13062012&language=en&c=&py=2012",
+        "161": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2172211_12062012&language=en&c=&py=2012",
+        "162": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=3963009_16052012&language=en&c=&py=2012",
+        "163": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=649211_17042012&language=en&c=&py=2012",
+        "164": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=1657408_04042012&language=en&c=&py=2012",
+        "165": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=2268907_21032012&language=en&c=&py=2012",
+        "166": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4887608_07032012&language=en&c=&py=2012",
+        "167": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=4337004_25012012&language=en&c=&py=2012",
+        "168": "https:\/\/echr.coe.int\/Pages\/home.aspx?p=hearings&w=7124301_11012012&language=en&c=&py=2012"
+    },
+    "webcast_id": {
+        "7": "3634516_03112021",
+        "8": "2438419_29092021",
+        "9": "4981209_07072021",
+        "10": "7863012_16062021",
+        "11": "4927011_26052021",
+        "12": "4357218_19052021",
+        "13": "1537916_27012021",
+        "14": "2849215_20012021",
+        "15": "6281917_21102020",
+        "16": "2847012_14102020",
+        "17": "4762113_01072020",
+        "18": "5746715_24062020",
+        "19": "6290315_17062020",
+        "20": "669718_10062020",
+        "21": "487116_26022020",
+        "22": "2637418_05022020",
+        "23": "2245716_15012020",
+        "24": "529414_18122019",
+        "25": "31015_04122019",
+        "26": "6827314_09102019",
+        "27": "8098212_25092019",
+        "28": "1430517_18092019",
+        "30": "5817013_10072019",
+        "31": "3525208_10072019",
+        "33": "6056114_15052019",
+        "35": "1214818_22012019",
+        "36": "187413_28112018",
+        "37": "20117_21112018",
+        "39": "3728313_17102018",
+        "40": "5401210_03102018",
+        "41": "867515_26092018",
+        "42": "1805211_06062018",
+        "43": "3826308_23052018",
+        "44": "4728715_18042018",
+        "45": "6141115_18042018",
+        "46": "3692507_28032018",
+        "47": "3648007_14032018",
+        "48": "7810314_07032018",
+        "49": "3665805_14022018",
+        "50": "2958012_24012018",
+        "51": "3555312_17012018",
+        "52": "7140910_20122017",
+        "53": "2045214_06122017",
+        "54": "1021112_29112017",
+        "56": "4172013_15112017",
+        "57": "5817013_07112017",
+        "58": "7663911_18102017",
+        "59": "4016012_12072017",
+        "60": "5135707_14062017",
+        "61": "1061316_23052017",
+        "62": "5539113_22032017",
+        "63": "7250813_08032017",
+        "64": "5640212_08022017",
+        "65": "4349409_25012017",
+        "67": "6149608_30112016",
+        "68": "5608013_16112016",
+        "69": "7811713_09112016",
+        "70": "3528911_19102016",
+        "71": "5666509_12102016",
+        "72": "93113_14092016",
+        "73": "1722411_31082016",
+        "74": "2198004_06072016",
+        "75": "3323412_29062016",
+        "76": "4645411_29062016",
+        "77": "1648312_22062016",
+        "78": "1986712_01062016",
+        "79": "6012511_25052016",
+        "80": "6036708_20042016",
+        "81": "7694311_02032016",
+        "82": "5916612_24022016",
+        "83": "3423809_27012016",
+        "84": "2413011_13012016",
+        "85": "733413_06012016",
+        "86": "5308013_16122015",
+        "87": "2535812_09122015",
+        "88": "2885911_02122015",
+        "89": "5054108_25112015",
+        "90": "1803011_04112015",
+        "91": "5759208_21102015",
+        "92": "2375507_07102015",
+        "93": "4173810_16092015",
+        "94": "182806_02092015",
+        "95": "4246113_08072015",
+        "96": "4489810_01072015",
+        "97": "4488309_23062015",
+        "98": "2026112_17062015",
+        "99": "587808_10062015",
+        "100": "6264910_03062015",
+        "101": "4339509_20052015",
+        "102": "3342710_19052015",
+        "103": "5692508_13052015",
+        "104": "4045407_15042015",
+        "105": "1750207_08042015",
+        "106": "3859010_01042015",
+        "107": "915410_04032015",
+        "108": "1113810_04022015",
+        "109": "2751008_28012015",
+        "110": "2570311_21012015",
+        "111": "1051110_14012015",
+        "112": "4604314_07012015",
+        "113": "1188210_17122014",
+        "114": "580908_10122014",
+        "115": "4361111_03122014",
+        "117": "2656207_14102014",
+        "118": "2338009_08102014",
+        "119": "4714306_24092014",
+        "120": "4141804_03092014",
+        "121": "6456909_09072014",
+        "122": "4647011_18062014",
+        "123": "3534305_04062014",
+        "124": "2936910_21052014",
+        "125": "2401405_16042014",
+        "126": "4770808_19022014",
+        "127": "2921712_12022014",
+        "128": "4016706_05022014",
+        "129": "1321605_22012014",
+        "130": "2975009_11122013",
+        "131": "2876111_03122013",
+        "132": "4383511_27112013",
+        "133": "1273810_13112013",
+        "134": "3735909_16102013",
+        "135": "904305_15102013",
+        "136": "1086509_02102013",
+        "137": "3254108_18092013",
+        "138": "2885911_10092013",
+        "139": "4784808_04092013",
+        "140": "6064208_10072013",
+        "141": "445510_26062013",
+        "142": "1715311_15052013",
+        "143": "578608_03042013",
+        "144": "4275009_20032013",
+        "145": "3581009_06032013",
+        "146": "5550807_13022013",
+        "147": "5603007_30012013",
+        "148": "2938109_16012013",
+        "149": "231208_12122012",
+        "150": "6606909_28112012",
+        "151": "2542409_14112012",
+        "153": "2785309_10102012",
+        "154": "1901007_03102012",
+        "155": "1232311_02102012",
+        "156": "5280609_18092012",
+        "157": "5167110_04092012",
+        "158": "4987211_28082012",
+        "159": "3931506_19062012",
+        "160": "1325507_13062012",
+        "161": "2172211_12062012",
+        "162": "3963009_16052012",
+        "163": "649211_17042012",
+        "164": "1657408_04042012",
+        "165": "2268907_21032012",
+        "166": "4887608_07032012",
+        "167": "4337004_25012012",
+        "168": "7124301_11012012"
+    },
+    "hearing type": {
+        "7": "Grand Chamber hearing",
+        "8": "Grand Chamber hearing",
+        "9": "Grand Chamber hearing",
+        "10": "Grand Chamber hearing",
+        "11": "Grand Chamber hearing",
+        "12": "Grand Chamber hearing",
+        "13": "Grand Chamber hearing",
+        "14": "Grand Chamber hearing",
+        "15": "Grand Chamber hearing",
+        "16": "Grand Chamber hearing",
+        "17": "Grand Chamber hearing",
+        "18": "Grand Chamber hearing",
+        "19": "Grand Chamber hearing",
+        "20": "Grand Chamber hearing",
+        "21": "Grand Chamber hearing",
+        "22": "Grand Chamber hearing",
+        "23": "Grand Chamber hearing",
+        "24": "Grand Chamber hearing",
+        "25": "Grand Chamber hearing",
+        "26": "Grand Chamber hearing",
+        "27": "Grand Chamber hearing",
+        "28": "Grand Chamber hearing",
+        "30": "Grand Chamber hearing",
+        "31": "Grand Chamber hearing",
+        "33": "Grand Chamber hearing",
+        "35": "Chamber hearing",
+        "36": "Grand Chamber hearing",
+        "37": "Grand Chamber hearing",
+        "39": "Grand Chamber hearing",
+        "40": "Grand Chamber hearing",
+        "41": "Grand Chamber hearing",
+        "42": "Grand Chamber hearing",
+        "43": "Grand Chamber hearing",
+        "44": "Grand Chamber hearing",
+        "45": "Grand Chamber hearing",
+        "46": "Grand Chamber hearing",
+        "47": "Grand Chamber hearing",
+        "48": "Grand Chamber hearing",
+        "49": "Grand Chamber hearing",
+        "50": "Grand Chamber hearing",
+        "51": "Grand Chamber hearing",
+        "52": "Grand Chamber hearing",
+        "53": "Grand Chamber hearing",
+        "54": "Grand Chamber hearing",
+        "56": "Grand Chamber hearing",
+        "57": "Chamber hearing",
+        "58": "Grand Chamber hearing",
+        "59": "Grand Chamber hearing",
+        "60": "Grand Chamber hearing",
+        "61": "Chamber hearing",
+        "62": "Grand Chamber hearing",
+        "63": "Grand Chamber hearing",
+        "64": "Grand Chamber hearing",
+        "65": "Grand Chamber hearing",
+        "67": "Grand Chamber hearing",
+        "68": "Grand Chamber hearing",
+        "69": "Grand Chamber hearing",
+        "70": "Grand Chamber hearing",
+        "71": "Grand Chamber hearing",
+        "72": "Grand Chamber hearing",
+        "73": "Grand Chamber hearing",
+        "74": "Grand Chamber hearing",
+        "75": "Chamber hearing",
+        "76": "Chamber hearing",
+        "77": "Grand Chamber hearing",
+        "78": "Grand Chamber hearing",
+        "79": "Grand Chamber hearing",
+        "80": "Grand Chamber hearing",
+        "81": "Grand Chamber hearing",
+        "82": "Grand Chamber hearing",
+        "83": "Grand Chamber hearing",
+        "84": "Grand Chamber hearing",
+        "85": "Grand Chamber hearing",
+        "86": "Grand Chamber hearing",
+        "87": "Grand Chamber hearing",
+        "88": "Grand Chamber hearing",
+        "89": "Grand Chamber hearing",
+        "90": "Grand Chamber hearing",
+        "91": "Grand Chamber hearing",
+        "92": "Grand Chamber hearing",
+        "93": "Grand Chamber hearing",
+        "94": "Grand Chamber hearing",
+        "95": "Grand Chamber hearing",
+        "96": "Grand Chamber hearing",
+        "97": "Chamber hearing",
+        "98": "Grand Chamber hearing",
+        "99": "Grand Chamber hearing",
+        "100": "Grand Chamber hearing",
+        "101": "Grand Chamber hearing",
+        "102": "Chamber hearing",
+        "103": "Grand Chamber hearing",
+        "104": "Grand Chamber hearing",
+        "105": "Grand Chamber hearing",
+        "106": "Grand Chamber hearing",
+        "107": "Grand Chamber hearing",
+        "108": "Grand Chamber hearing",
+        "109": "Grand Chamber hearing",
+        "110": "Grand Chamber hearing",
+        "111": "Grand Chamber hearing",
+        "112": "Grand Chamber hearing",
+        "113": "Grand Chamber hearing",
+        "114": "Grand Chamber hearing",
+        "115": "Grand Chamber hearing",
+        "117": "Chamber hearing",
+        "118": "Grand Chamber hearing",
+        "119": "Grand Chamber hearing",
+        "120": "Grand Chamber hearing",
+        "121": "Grand Chamber hearing",
+        "122": "Grand Chamber hearing",
+        "123": "Grand Chamber hearing",
+        "124": "Grand Chamber hearing",
+        "125": "Grand Chamber hearing",
+        "126": "Grand Chamber hearing",
+        "127": "Grand Chamber hearing",
+        "128": "Grand Chamber hearing",
+        "129": "Grand Chamber hearing",
+        "130": "Grand Chamber hearing",
+        "131": "Chamber hearing",
+        "132": "Grand Chamber hearing",
+        "133": "Grand Chamber hearing",
+        "134": "Grand Chamber hearing",
+        "135": "Chamber hearing",
+        "136": "Grand Chamber hearing",
+        "137": "Grand Chamber Judgment hearing",
+        "138": "Chamber hearing",
+        "139": "Grand Chamber Judgment hearing",
+        "140": "Grand Chamber hearing",
+        "141": "Grand Chamber hearing",
+        "142": "Grand Chamber hearing",
+        "143": "Grand Chamber hearing",
+        "144": "Grand Chamber hearing",
+        "145": "Grand Chamber hearing",
+        "146": "Grand Chamber hearing",
+        "147": "Grand Chamber hearing",
+        "148": "Grand Chamber hearing",
+        "149": "Grand Chamber hearing",
+        "150": "Grand Chamber hearing",
+        "151": "Grand Chamber hearing",
+        "153": "Grand Chamber hearing",
+        "154": "Grand Chamber hearing",
+        "155": "Chamber hearing",
+        "156": "Chamber hearing",
+        "157": "Chamber hearing",
+        "158": "Chamber hearing",
+        "159": "Chamber hearing",
+        "160": "Grand Chamber hearing",
+        "161": "Chamber hearing",
+        "162": "Grand Chamber hearing",
+        "163": "Chamber hearing",
+        "164": "Grand Chamber hearing",
+        "165": "Grand Chamber hearing",
+        "166": "Grand Chamber hearing",
+        "167": "Grand Chamber hearing",
+        "168": "Grand Chamber hearing"
+    },
+    "hudoc links": {
+        "7": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"36345\/16\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"36345\/16\"],\"documentcollectionid2\":[\"CHAMBER\"]}"
+        },
+        "8": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"24384\/19\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"24384\/19\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}"
+        },
+        "9": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"49812\/09\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"49812\/09\"],\"documentcollectionid2\":[\"CHAMBER\"]} "
+        },
+        "10": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"78630\/12\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"78630\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]} "
+        },
+        "11": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"49270\/11\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"49270\/11\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"49270\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "12": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"43572\/18\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43572\/18\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43572\/18\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "13": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"15379\/16\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"15379\/16\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "14": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"28492\/15\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"28492\/15\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"28492\/15\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "15": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"62819\/17\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"62819\/17\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"62819\/17\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "16": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"28470\/12\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"28470\/12\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"28470\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "17": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"47621\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47621\/13\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47621\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "18": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"57467\/15\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"57467\/15\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"57467\/15\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "19": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"62903\/15\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"62903\/15\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"62903\/15\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "20": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"6697\/18\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"6697\/18\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"6697\/18\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"6697\/18\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "21": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"4871\/16\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"4871\/16\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"4871\/16\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "22": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"26374\/18\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"26374\/18\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "23": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"22457\/16\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"22457\/16\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"22457\/16\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "24": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"5294\/14\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"5294\/14\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"5294\/14\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "25": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"310\/15\"],\"sort\":[\"kpdate Descending\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"310\/15\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "26": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"68273\/14\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"68273\/14\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"68273\/14\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "27": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"80982\/12\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"80982\/12\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "28": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"14305\/17\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"14305\/17\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"14305\/17\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "30": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"58170\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"58170\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"58170\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "31": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"35252\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35252\/08\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35252\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "33": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"60561\/14\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"60561\/14\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"60561\/14\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "35": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"12148\/18\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"12148\/18\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"12148\/18\"],\"documentcollectionid2\":[\"CHAMBER\"]} "
+        },
+        "36": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"1874\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"1874\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "37": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"201\/17\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"201\/17\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"201\/17\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "39": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"37283\/13\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"37283\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "40": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"54012\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"54012\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "41": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"8675\/15\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"8675\/15\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"8675\/15\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "42": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"18052\/11\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"18052\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"18052\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "43": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"38263\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Decision": "http:\/\/cmiskp.echr.coe.int\/tkp197\/view.asp?action=html&documentId=897303&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"38263\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "44": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"47287\/15\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47287\/15\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47287\/15\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "45": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"61411\/15\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"61411\/15\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"61411\/15\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "46": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"36925\/07\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"36925\/07\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"36925\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "47": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"36480\/07\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"36480\/07\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"36480\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "48": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"78103\/14\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"78103\/14\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"78103\/14\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "49": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"36658\/05\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"36658\/05\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"36658\/05\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "50": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"29580\/12\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"29580\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"29580\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "51": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"35553\/12\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35553\/12\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35553\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "52": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"71409\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"71409\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "53": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"20452\/14\"],\"sort\":[\"kpdate Descending\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"20452\/14\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} ",
+            "Grand Chamber Judgment on just satisfaction": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"20452\/14\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "54": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"10211\/12\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"10211\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"10211\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "56": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"41720\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"41720\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "57": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"58170\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statements of facts (nos. 58170\/13 and 62322\/14)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"58170\/13\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Statement of facts (no. 24960\/15)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"24960\/15\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"58170\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]} "
+        },
+        "58": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"76639\/11\"],\"sort\":[\"kpdate Descending\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "59": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"40160\/12\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"40160\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"40160\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "60": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"51357\/07\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"51357\/07\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"51357\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "61": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"10613\/16\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"10613\/16\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"10613\/16\"],\"documentcollectionid2\":[\"CHAMBER\"]} "
+        },
+        "62": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"55391\/13\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"55391\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"55391\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "63": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"72508\/13\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"72508\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"72508\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "64": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"sort\":[\"kpdate Descending\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56402\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "65": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"43494\/09\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43494\/09\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43494\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "67": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"61496\/08\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"61496\/08\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"61496\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "68": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"56080\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56080\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56080\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "69": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"78117\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"78117\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"78117\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "70": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"35289\/11\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35289\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35289\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "71": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"56665\/09\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56665\/09\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56665\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "72": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"931\/13\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"931\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"931\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "73": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"17224\/11\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"17224\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"17224\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "74": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"21980\/04\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"21980\/04\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"00000\/00\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "75": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"33234\/12\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"33234\/12\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"33234\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]}"
+        },
+        "76": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"46454\/11\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"46454\/11\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"46454\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]}"
+        },
+        "77": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"16483\/12\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"16483\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"16483\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "78": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"19867\/12\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"19867\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "79": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"60125\/11\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"60125\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"60125\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "80": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"60367\/08\"],\"sort\":[\"kpdate Descending\"]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"60367\/08\"],\"documentcollectionid2\":[\"DECISIONS\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"60367\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "81": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"76943\/11\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"76943\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"76943\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "82": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"59166\/12\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"59166\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"59166\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "83": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"34238\/09\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"34238\/09\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"34238\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "84": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"24130\/11\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"24130\/11\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"24130\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "85": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"7334\/13\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"7334\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"7334\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "86": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"53080\/13\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"53080\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"53080\/13\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "87": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"25358\/12\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"25358\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"25358\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "88": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"28859\/11 \"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"28859\/11 \"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"28859\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "89": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"50541\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"50541\/08\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"50541\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "90": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"18030\/11\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"18030\/11\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"18030\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "91": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"57592\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"57592\/08\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"57592\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "92": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"23755\/07\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"23755\/07\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"23755\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "93": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"41738\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"41738\/10\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"41738\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "94": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"34163\/07\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts G.I.E.M. s.r.l. v. Italy": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-156745",
+            "Decision Hotel Promotion Bureau s.r.l. and Rita Sarda s.r.l. v. Italy": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"34163\/07\"],\"documentcollectionid2\":[\"DECISIONS\"]} ",
+            "Decision Falgest s.r.l. and Gironda v. Italy": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-157226",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"1828\/06\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "95": {
+            "Press releases (Kar\u00e1csony and Others)": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"42461\/13\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Press releases (Sz\u00e9l and Others)": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"44357\/13\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment (Sz\u00e9l and Others)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"44357\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Chamber Judgment (Kar\u00e1csony and Others)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"42461\/13\"],\"documentcollectionid2\":[\"CHAMBER\"]} "
+        },
+        "96": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"44898\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"44898\/10\"],\"documentcollectionid2\":[\"DECISIONS\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"44898\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "97": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"44883\/09\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts (only in French)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"44883\/09\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}"
+        },
+        "98": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"20261\/12\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"20261\/12\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"20261\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "99": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"5878\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"5878\/08\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"5878\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "100": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"62649\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts (in French only)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"62649\/10\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"62649\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "101": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"43395\/09\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts (in French only)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43395\/09\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43395\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "102": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"33427\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"33427\/10\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"33427\/10\"],\"documentcollectionid2\":[\"DECISIONS\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"33427\/10\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"33427\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "103": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"56925\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56925\/08\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56925\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "104": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"40454\/07\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"40454\/07\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"40454\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "105": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"17502\/07\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"17502\/07\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"17502\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "106": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"38590\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"38590\/10\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"38590\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "107": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"9154\/10\"],\"sort\":[\"kpdate Descending\"]}",
+            "Chamber Judgment": "tp:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"9154\/10\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"9154\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "108": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"11138\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"11138\/10\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"11138\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "109": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"27510\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"27510\/08\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"27510\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "110": {
+            "Press release": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"25703\/11\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"25703\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"25703\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "111": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"10511\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"10511\/10\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"10511\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "112": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"46043\/14\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"46043\/14\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "113": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"11882\/10\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"11882\/10\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"11882\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "114": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"5809\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"5809\/08\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"5809\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "115": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"43611\/11\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43611\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43611\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "117": {
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-111101"
+        },
+        "118": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"23380\/09\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"23380\/09\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"23380\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "119": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"47143\/06\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47143\/06\"],\"documentcollectionid2\":[\"COMMUNICATEDCASES\"]}",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47143\/06\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "120": {
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-141827"
+        },
+        "121": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2264569\/09%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-126635",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"64569\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "122": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2246470\/11%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision ": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"46470\/11\"],\"documentcollectionid2\":[\"DECISIONS\"]}",
+            "Decision in Italian": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-123171",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"46470\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "123": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"35343\/05\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-113089",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35343\/05\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "124": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2229369\/10%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"29369\/10\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"29369\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "125": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2224014\/05%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Chamber Judgment ": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"24014\/05\"],\"documentcollectionid2\":[\"CHAMBER\"]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"24014\/05\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "126": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"47708\/08\"],\"sort\":[\"kpdate Descending\"]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-114929",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47708\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "127": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"29217\/12\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts (in French only)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112168",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"29217\/12\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "128": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2240167\/06%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision of 14\/12\/2011": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-108386",
+            "Grand Chamber judgments ": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"40167\/06\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "129": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2213216\/05%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision of 14\/12\/2011 ": "http:\/\/cmiskp.echr.coe.int\/tkp197\/view.asp?action=html&documentId=897988&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649",
+            "Grand Chamber judgments ": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"13216\/05\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "130": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"29750\/09\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=003-3651584-4145067",
+            "Chamber judgment ": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"29750\/09\"],\"documentcollectionid2\":[\"CHAMBER\"]} ",
+            "Grand Chamber judgment ": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"29750\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "131": {
+            "Statement of facts Al Nashiri v. Poland": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112302",
+            "Statement of facts Husayn (Abu Zubaydah) v. Poland": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-123768"
+        },
+        "132": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2243835\/11%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"43835\/11\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "133": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"12738\/10\"],\"sort\":[\"kpdate Descending\"]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-115732",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"12738\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "134": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2237359\/09%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-114423",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{%22fulltext%22:[%2237359\/09%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]}",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"37359\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "135": {
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-122692"
+        },
+        "136": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2210865\/09%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/fra-press\/pages\/search.aspx?i=003-4153998-4904436",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"10865\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "137": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2232541\/08%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/fra-press\/pages\/search.aspx?i=003-4192267-4967664",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"32541\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "138": {
+            "Statement of facts (Krejzov\u00e1)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-113346",
+            "Statement of facts (Dubsk\u00e1)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-113345",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"28859\/11\"],\"documentcollectionid2\":[\"CHAMBER\"]} "
+        },
+        "139": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{\"fulltext\":[\"47848\/08\"],\"sort\":[\"kpdate Descending\"]} ",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-113736",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"47848\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "140": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2260642\/08%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-107425",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-114243",
+            "Grand Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"60642\/08\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "141": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%224455\/10%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Chamber Judgment": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-114487",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"4455\/10\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "142": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2217153\/11%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112706",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-142199"
+        },
+        "143": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%225786\/08%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{%22appno%22:[%225786\/08%22],%22documentcollectionid%22:[%22JUDGMENTS%22,%22DECISIONS%22,%22CLIN%22,%22ADVISORYOPINIONS%22,%22REPORTS%22,%22RESOLUTIONS%22]}",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-128043"
+        },
+        "144": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2242750\/09%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Spanish  interpretation of the webcast": "mms:\/\/coenews.coe.int\/vod\/20130327_01_s.wmv",
+            "Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112108"
+        },
+        "145": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2235810\/09%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{%22appno%22:[%2235810\/09%22],%22documentcollectionid%22:[%22JUDGMENTS%22,%22DECISIONS%22,%22CLIN%22,%22ADVISORYOPINIONS%22,%22REPORTS%22,%22RESOLUTIONS%22]}",
+            "": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"35810\/09\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]}"
+        },
+        "146": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2255508\/07%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Decision": "http:\/\/cmiskp.echr.coe.int\/tkp197\/view.asp?action=html&documentId=888266&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649",
+            "Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-110513",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-127684"
+        },
+        "147": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2256030\/07%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Chamber Judgment": "http:\/\/cmiskp.echr.coe.int\/tkp197\/view.asp?action=html&documentId=908125&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"56030\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} "
+        },
+        "148": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2229381\/09%22],%22sort%22:[%22kpdate%20Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{%22appno%22:[%2229381\/09%22],%22documentcollectionid%22:[%22JUDGMENTS%22,%22DECISIONS%22,%22CLIN%22,%22ADVISORYOPINIONS%22,%22REPORTS%22,%22RESOLUTIONS%22]}",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-128294"
+        },
+        "149": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%222312\/08%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Statement of facts (no. 2312\/08)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112346",
+            "Statement of facts (no. 34179\/08)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112602",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-122716"
+        },
+        "150": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2266069\/09%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"appno\":[\"66069\/09\"],\"documentcollectionid\":[\"JUDGMENTS\",\"DECISIONS\",\"CLIN\",\"ADVISORYOPINIONS\",\"REPORTS\",\"RESOLUTIONS\"]}",
+            "Grand Chamber judgment of 09\/07\/2013": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-122664"
+        },
+        "151": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2225424\/09%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"appno\":[\"25424\/09\"],\"documentcollectionid\":[\"JUDGMENTS\",\"DECISIONS\",\"CLIN\",\"ADVISORYOPINIONS\",\"REPORTS\",\"RESOLUTIONS\"]}",
+            "Grand Chamber judgment of 12\/07\/2013": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-122859"
+        },
+        "153": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2227853\/09%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"appno\":[\"27853\/09\"],\"documentcollectionid\":[\"JUDGMENTS\",\"DECISIONS\",\"CLIN\",\"ADVISORYOPINIONS\",\"REPORTS\",\"RESOLUTIONS\"]}"
+        },
+        "154": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2219010\/07%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"appno\":[\"19010\/07\"],\"documentcollectionid\":[\"JUDGMENTS\",\"DECISIONS\",\"CLIN\",\"ADVISORYOPINIONS\",\"REPORTS\",\"RESOLUTIONS\"]}",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-116735"
+        },
+        "155": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2212323\/11%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"appno\":[\"12323\/11\"],\"documentcollectionid\":[\"JUDGMENTS\",\"DECISIONS\",\"CLIN\",\"ADVISORYOPINIONS\",\"REPORTS\",\"RESOLUTIONS\"]}"
+        },
+        "156": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2252806\/09%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112348"
+        },
+        "157": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2251671\/10%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Statement of facts (no. 51671\/10, 36516\/10)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-111187",
+            "Statement of facts (no. 48420\/10, 59842\/10)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-112944"
+        },
+        "158": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2249872\/11%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-109460",
+            "Additional Statement of facts": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-111795",
+            "Chamber Judgment of 30\/04\/2013": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-119382"
+        },
+        "159": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2239315\/06%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-99089"
+        },
+        "160": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2213255\/07%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-93425",
+            "Grand Chamber judgment (on the merits)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/Pages\/search.aspx#{\"fulltext\":[\"13255\/07\"],\"documentcollectionid2\":[\"GRANDCHAMBER\"]} ",
+            "Grand Chamber judgment (just satisfaction)": "https:\/\/hudoc.echr.coe.int\/eng#{\"itemid\":[\"001-189019\"]}"
+        },
+        "161": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2221722\/11%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-107361",
+            "Chamber Judgment of 09\/01\/2013": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-115871"
+        },
+        "162": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2239630\/09%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-110887"
+        },
+        "163": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%226492\/11%22],%22sort%22:[%22kpdate Descending%22]}"
+        },
+        "164": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2216574\/08%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Chamber judgment": "http:\/\/cmiskp.echr.coe.int\/tkp197\/view.asp?action=html&documentId=888502&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649"
+        },
+        "165": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2222689\/07%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Chamber judgment": "http:\/\/cmiskp.echr.coe.int\/tkp197\/view.asp?action=html&documentId=887480&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649"
+        },
+        "166": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2248876\/08%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Facts and complaints": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-111190",
+            "Grand Chamber judgment of 22\/04\/2013": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-119244"
+        },
+        "167": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2243370\/04%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-99961"
+        },
+        "168": {
+            "Press releases": "http:\/\/hudoc.echr.coe.int\/sites\/eng-press\/Pages\/search.aspx#{%22fulltext%22:[%2271243\/01%22],%22sort%22:[%22kpdate Descending%22]}",
+            "Decision (in French)": "http:\/\/hudoc.echr.coe.int\/sites\/eng\/pages\/search.aspx?i=001-78695",
+            "Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-103866",
+            "Grand Chamber judgment": "http:\/\/hudoc.echr.coe.int\/sites\/fra\/pages\/search.aspx?i=001-114277"
+        }
+    }
+}
